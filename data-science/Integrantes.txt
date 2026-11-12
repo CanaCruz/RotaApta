@@ -1,0 +1,10 @@
+FIAP - Global Solution 2026.2 - CitizenTech
+Disciplina: Data Science & Statistical Computing
+Projeto: RotaApta - Mobilidade Acessível e Inteligente
+
+Integrantes:
+
+1. Arthur Canaverde da Cruz - RM 563029
+2. Isabella Jardim Marques - RM 566470
+3. Mayene Moura da Silva - RM 564624
+4. Murilo Canéstri dos Reis - RM 564053
