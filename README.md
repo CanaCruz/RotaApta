@@ -48,7 +48,7 @@ Entrega da disciplina *Data Science & Statistical Computing* (ZIP enviado pelo T
 | `RotaApta_DataScience.ipynb` | Notebook executado: análise exploratória, limpeza, divisão treino/teste sem vazamento, regressão linear (MAE, RMSE, R²), regressão logística (matriz de confusão, precisão, recall, F1), recomendações, limitações e impactos. |
 | `RotaApta_Dataset.csv` | Base **simulada** de 1.515 trechos (sem dados pessoais), gerada por `gerar_dataset.py` com semente 42. |
 | `gerar_dataset.py` | Gerador reprodutível da base; o notebook confere que o CSV é idêntico ao gerado. |
-| `Integrantes.txt` | Nomes e RMs. |
+| `Integrantes.txt` | Nomes e RMs. Enviado só no ZIP do Teams; neste repositório, a equipe está listada acima. |
 | `prompts.md` | Registro do uso de IA (regra "IA como copiloto"). |
 
 **Resultados principais (dados simulados, não validados em campo):**
